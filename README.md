@@ -353,3 +353,32 @@ Qualquer mensagem com palavras como recebi, ganhei, salário, freelance, renda, 
 
 - no campo metas ao acionar o icone do porquinho para inserir um valor, pode inserir um campo de data e também fazer o botão expansível da mesma forma que feita no pedido anterior?
 - resposta "Pronto! Agora ao clicar no ícone do porquinho, o formulário de depósito exibe um campo de data além do valor, e o painel expande/recolhe com animação. Se a data não for preenchida, usa a data atual automaticamente."
+
+- <img width="1629" height="917" alt="image" src="https://github.com/user-attachments/assets/ba04ec69-4aa0-47af-bcae-5d95dc96d75d" />
+
+- <img width="1629" height="917" alt="image" src="https://github.com/user-attachments/assets/9f42845c-79ed-4dad-8065-3877067b3430" />
+
+- <img width="1629" height="917" alt="image" src="https://github.com/user-attachments/assets/5b150946-4471-400e-b5f2-bb5b6e62f8fa" />
+
+- <img width="1629" height="917" alt="image" src="https://github.com/user-attachments/assets/fe8cfa2b-7aff-45b8-80f2-770f690a018a" />
+
+- <img width="1629" height="917" alt="image" src="https://github.com/user-attachments/assets/b4a924c8-fea1-4bff-8f1e-63592765d5e6" />
+
+- <img width="1629" height="917" alt="image" src="https://github.com/user-attachments/assets/881c25c0-f3ca-491b-b496-8cc5593e82b2" />
+
+Conceito:
+
+O aplicativo é uma ferramenta de finanças pessoais baseada em conversas, permitindo que o usuário registre gastos, veja relatórios e crie metas apenas interagindo em linguagem natural. Ele foi projetado com Design Universal, garantindo simplicidade, acessibilidade e uma experiência fluida para diferentes perfis de usuários. Além disso, inclui um letreiro com insights financeiros inspirados em livros clássicos, reforçando a educação financeira de forma leve e contínua.
+
+Reflexão:
+
+o Vibe Coding torna a construção mais intuitiva ao focar na intenção e na experiência desejada, não apenas no código. Por fim, ficou claro como transformar conceitos complexos em mensagens simples melhora tanto a usabilidade quanto o impacto educacional do app.
+
+Gostei muito de trabalhar com Vibe Coding e espero me aprofundar mais!
+
+
+
+
+
+
+
